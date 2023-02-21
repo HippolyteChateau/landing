@@ -1,0 +1,13 @@
+.button-blue {
+  background-color: skyblue;
+  padding: 10px 15px;
+  border-radius: 12px;
+  color: white;
+  font-family: "Lato";
+  font-size: 18px;
+}
+
+.button-blue:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
